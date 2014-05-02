@@ -1,0 +1,9 @@
+Package: com.emblem.lockdial
+Name: LockDial
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Emblem Devs <wvabrinskas@gmail.com>
+Author: Emblem Devs <wvabrinskas@gmail.com>
+Section: Tweaks
